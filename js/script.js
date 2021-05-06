@@ -19,7 +19,7 @@ $(document).ready(function(){
 
 
     var typed = new Typed(".typed", {
-        strings: ["Student.", "Software Engineering.", "Web Development."],
+        strings: ["Student.", "Software Engineering.", "Web Development.", "Cybersecurity.", "FullStack."],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
